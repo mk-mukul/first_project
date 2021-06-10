@@ -1,2 +1,4 @@
 # first_project
-This project show graph of crops production in different districts of India
+
+This project shows graph of crops production in different districts of India
+
